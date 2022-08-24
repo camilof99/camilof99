@@ -6,7 +6,7 @@
       </samp>
    </h3>
    
-   <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&duration=3500&pause=1000&color=0E7DD4&center=true&vCenter=true&width=300&height=25&lines=I'm+Camilo+Faria.+I+like+programming." alt="Typing SVG" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=IosevkaTerm&size=15&duration=3500&pause=1000&color=0E7DD4&center=true&vCenter=true&width=370&height=30&lines=I'm+Camilo+Faria.+I+like+programming." alt="Typing SVG" />
 </div>
 
 <br><br>
