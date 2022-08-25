@@ -9,7 +9,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&duration=3500&pause=1000&color=0E7DD4&center=true&vCenter=true&width=370&height=30&lines=I'm+Camilo+Faria.+I+like+programming." alt="Typing SVG" />
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/camilo-faria/">
@@ -66,8 +66,12 @@
    </h2>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en&layout=compact" alt="camilof99" /></p>
+<div>
+   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en&layout=compact" alt="camilof99" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en" alt="camilof99" /></p>
+   <p><img src="https://github-readme-streak-stats.herokuapp.com?user=camilof99&theme=dark&border=1770DD" alt="camilof99" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=camilof99&theme=dark&border=1770DD)](https://git.io/streak-stats)
+   <p><img src="https://github-readme-stats.vercel.app/api?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en" alt="camilof99" /></p>
+</div>
+
+
