@@ -30,6 +30,16 @@
          About me <img src="https://media.giphy.com/media/8sg0xJaDKWckIUbuy9/giphy.gif" width="25px"/>
       </samp>
    </h2>
+   <!-- <img width="30%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
+   <img width="20%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
+   <samp>
+      <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>👯 I’m looking to collaborate on</li>
+        <li>4</li>
+      </ul>
+   </samp>
 </div>
 
 <h2 align="left">
@@ -67,7 +77,7 @@
 </div>
 
 <div>
-   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en&layout=compact" alt="camilof99" /></p>
+   <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=camilof99&theme=dark&border_color=1770DD&show_icons=true&locale=en" alt="camilof99" /></p>
 
    <p><img src="https://github-readme-streak-stats.herokuapp.com?user=camilof99&theme=dark&border=1770DD" alt="camilof99" /></p>
 
