@@ -31,7 +31,7 @@
       </samp>
    </h2>
    <!-- <img width="30%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
-   <img width="20%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
+   <img width="30%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
    <samp>
       <ul>
         <li>1</li>
