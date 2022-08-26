@@ -25,21 +25,22 @@
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="100%" height="140px" />
 
 <div>
+   <!-- <img width="30%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
+   <img width="20%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
+   
    <h2>
       <samp>
          About me <img src="https://media.giphy.com/media/8sg0xJaDKWckIUbuy9/giphy.gif" width="25px"/>
       </samp>
    </h2>
-   <!-- <img width="30%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
-   <img width="30%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
-   <samp>
-      <ul>
+   
+   <ul>
         <li>1</li>
         <li>2</li>
         <li>👯 I’m looking to collaborate on</li>
         <li>4</li>
-      </ul>
-   </samp>
+   </ul>
+   
 </div>
 
 <h2 align="left">
