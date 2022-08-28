@@ -28,23 +28,26 @@
 <br>
 <img src="https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif" width="100%" height="140px" />
 
+
 <div>
-   <!-- <img width="30%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
-   <img width="20%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
-   
+<samp>
+   <!-- <img width="25%" align="right" src="https://i.ibb.co/rySJjRB/pngegg.png" alt="pngegg" border="0"> -->
+   <img width="25%" align="right" src="https://i.ibb.co/qMg9nCm/hulk-silhouette-379612.png" alt="hulk-silhouette-379612" border="0">
+  
    <h2>
-      <samp>
-         About me <img src="https://media.giphy.com/media/8sg0xJaDKWckIUbuy9/giphy.gif" width="25px"/>
-      </samp>
+      About me <img src="https://media.giphy.com/media/8sg0xJaDKWckIUbuy9/giphy.gif" width="25px"/>
    </h2>
    
-   <ul>
-        <li>1</li>
-        <li>2</li>
-        <li>👯 I’m looking to collaborate on</li>
-        <li>4</li>
-   </ul>
-   
+- :computer:  I'm currently developing personal projects.
+
+- :thought_balloon:  I want to become a full stack developer.
+
+- :penguin: I like to customize my Linux desktop.
+
+- :busts_in_silhouette: I'm looking to collaborate on Open Source Projects.
+
+- :soccer:  I like to play soccer, read books, and listen to music.
+</samp>
 </div>
 
 <h2 align="left">
