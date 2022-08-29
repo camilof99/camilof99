@@ -48,6 +48,7 @@
 
 - :soccer:  I like to play soccer, read books, and listen to music.
 </samp>
+- :soccer:  I like
 </div>
 
 <h2 align="left">
