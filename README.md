@@ -38,17 +38,16 @@
       About me <img src="https://media.giphy.com/media/8sg0xJaDKWckIUbuy9/giphy.gif" width="25px"/>
    </h2>
    
-- :computer:  I'm currently developing personal projects.
+   - :computer:  I'm currently developing personal projects.
 
-- :thought_balloon:  I want to become a full stack developer.
+   - :thought_balloon:  I want to become a full stack developer.
 
-- :penguin: I like to customize my Linux desktop.
+   - :penguin: I like to customize my Linux desktop.
 
-- :busts_in_silhouette: I'm looking to collaborate on Open Source Projects.
+   - :busts_in_silhouette: I'm looking to collaborate on Open Source Projects.
 
-- :soccer:  I like to play soccer, read books, and listen to music.
+   - :soccer:  I like to play soccer, read books, and listen to music.
 </samp>
-- :soccer:  I like
 </div>
 
 <h2 align="left">
