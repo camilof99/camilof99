@@ -42,7 +42,7 @@
 
    - :thought_balloon:  I want to become a full stack developer.
 
-   - :penguin: I like to customize my Linux desktop.
+   - :penguin: I like to customize my Linux desktop. <a href="https://github.com/camilof99/dotfiles-awesome">Here.</a>
 
    - :busts_in_silhouette: I'm looking to collaborate on Open Source Projects.
 
